@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'EurofontC';
+    src: url('./EurofontC.woff2') format('woff2'),
+        url('./EurofontC.woff') format('woff'),
+        url('./EurofontC.ttf') format('truetype');
+
+    /* font-weight: normal; */
+    font-style: normal;
+    font-display: swap;
+}
